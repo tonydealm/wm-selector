@@ -2,7 +2,7 @@
   "name": "The Burgundian Ordonnance Of Charles The Bold, 1476",
   "version": "Warmaster Medieval",
   "group": "Burgundian Wars",
-  "order": 1,
+  "order": 0,
   "units": {
     "Coustilliers": {
       "type": "Cavalry",

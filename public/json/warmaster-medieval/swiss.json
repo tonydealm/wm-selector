@@ -2,7 +2,7 @@
   "name": "Swiss Confederation, 1476",
   "version": "Warmaster Medieval",
   "group": "Burgundian Wars",
-  "order": 2,
+  "order": 1,
   "units": {
     "Men-at-Arms": {
       "type": "Cavalry",

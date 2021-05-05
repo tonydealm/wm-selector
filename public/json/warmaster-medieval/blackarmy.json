@@ -1,8 +1,8 @@
 {
   "name": "The Black Army Of Matthias Corvinus, 1467",
   "version": "Warmaster Medieval",
-  "group": "Burgundian Wars",
-  "order": 0,
+  "group": "Ottoman–Hungarian wars",
+  "order": 2,
   "units": {
     "Szekeler Cavalry": {
       "type": "Cavalry",
